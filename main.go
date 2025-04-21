@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/leonardoavelar/Go/src/go-rest-api/database"
-	"github.com/leonardoavelar/Go/src/go-rest-api/rotas"
+	"github.com/leonardoavelar/Go-rest-api/database"
+	"github.com/leonardoavelar/Go-rest-api/rotas"
 )
 
 func main() {

@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/leonardoavelar/Go/src/go-rest-api/database"
-	"github.com/leonardoavelar/Go/src/go-rest-api/modelos"
+	"github.com/leonardoavelar/Go-rest-api/database"
+	"github.com/leonardoavelar/Go-rest-api/modelos"
 )
 
 func Home(w http.ResponseWriter, r *http.Request) {

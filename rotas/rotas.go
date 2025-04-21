@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/leonardoavelar/Go/src/go-rest-api/controles"
-	"github.com/leonardoavelar/Go/src/go-rest-api/middleware"
+	"github.com/leonardoavelar/Go-rest-api/controles"
+	"github.com/leonardoavelar/Go-rest-api/middleware"
 )
 
 func HandleRequest() {
